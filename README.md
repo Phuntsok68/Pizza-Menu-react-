@@ -1,3 +1,3 @@
 # Pizza-Menu-react
 
-![pizza(pizza-menu.png)]
+![pizza](pizza-menu.png)
